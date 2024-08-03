@@ -1,0 +1,13 @@
+.nav_bar{
+    background-color:blueviolet;
+    margin-bottom:100;
+}
+.box1{
+    background-color:rgb(255, 238, 0); 
+    height: 200px ; 
+    width: 200px;
+}
+.box2{
+    background-color:rgb(0, 255, 136); 
+    width: 30%;
+}
